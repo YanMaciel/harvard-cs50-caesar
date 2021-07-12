@@ -1,8 +1,8 @@
 # Disclaimer
-If you are taking Harvard's CS50 - Introduction to Computer Science course you must follow the Academic Honesty philosophy.
+If you are taking Harvard's CS50 - Introduction to Computer Science course you **must follow the Academic Honesty philosophy**.
 It is not reasonable to access a solution to some assessement prior to (re-)submitting your own.
 
-The essence of all work that you submit to the CS50 course must be your own. 
+The essence of all work that you submit to the CS50 course **must be your own**. 
 
 # Caesar's Cipher
 Caesar's Cipher is a simple encrypt method where you shift each letter of the text with an according numerical key.
@@ -10,7 +10,7 @@ Caesar's Cipher is a simple encrypt method where you shift each letter of the te
 For example, the word "HELLO" when encrypted using Caesar's Cipher and a numerical key of 1 will become "IFMMP".
 
 # System Algorithm (How it operates)
-This is a command-line application and it was fully developed in C.
+This is a command-line application and it was fully developed in **C**.
 
 We use the [Decimal ASCII Chart](https://www.asciichart.com/[asciichart.com) in the implementation of the algorithm, converting ASCII to alphabetical index in the ciphertext.
 First we create two lists to store uppercase and lowercase letters, in a way to attribute values from 0 to 25 (26 letters in the alphabet).
@@ -41,7 +41,8 @@ The numerical key to encrypt must be an integer.
 
 The program will ask for a plaintext, which will be spilled back to you using the numeric key you inserted in the previous command as a ciphertext.
 
-  > Plaintext: <text to encrypt>
-  > Ciphertext: <returns ciphertext using the key you provided>
+  > Plaintext: -text to encrypt-
+  
+  > Ciphertext: -returns ciphertext using the key you provided-
   
   
