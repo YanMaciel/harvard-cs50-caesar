@@ -1,5 +1,5 @@
 # Academic Honesty
-If you are taking Harvard's CS50 - Introduction to Computer Science course you **must follow the [Academic Honesty philosophy](https://cs50.harvard.edu/x/2021/honesty/)**.
+If you are taking Harvard's CS50 - Introduction to Computer Science course you **must follow the course's [Academic Honesty philosophy](https://cs50.harvard.edu/x/2021/honesty/)**.
 
 It is not reasonable to access a solution to some assessement prior to (re-)submitting your own.
 
