@@ -34,16 +34,16 @@ It will encrypt uppercase and lowercase letters, keeping them in the same config
 # Usage
 To use and test this program, you will need [CS 50 Library](https://cs50.readthedocs.io/libraries/cs50/c/). Copy this repository and through the command line, enter the program's folder and run the following command to compile:
 
-$ make caesar
+    $ make caesar
 
 The numerical key to encrypt must be an integer.
 
-./caesar <numerical key>
+    ./caesar <numerical key>
 
 The program will ask for a plaintext, which will be spilled back to you using the numeric key you inserted in the previous command as a ciphertext.
 
-  > Plaintext: -text to encrypt-
+    Plaintext: <text to encrypt>
   
-  > Ciphertext: -returns ciphertext using the key you provided-
+    Ciphertext: <returns ciphertext using the key you provided>
   
   
