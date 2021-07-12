@@ -1,5 +1,6 @@
-# Disclaimer
+# Academic Honesty
 If you are taking Harvard's CS50 - Introduction to Computer Science course you **must follow the Academic Honesty philosophy**.
+
 It is not reasonable to access a solution to some assessement prior to (re-)submitting your own.
 
 The essence of all work that you submit to the CS50 course **must be your own**. 
