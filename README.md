@@ -5,7 +5,7 @@ It is not reasonable to access a solution to some assessement prior to (re-)subm
 
 The essence of all work that you submit to the CS50 course **must be your own**. 
 
-# Caesar's Cipher
+# CS50's Caesar's Cipher
 Caesar's Cipher is a simple encrypt method where you shift each letter of the text with an according numerical key.
 
 For example, the word "HELLO" when encrypted using Caesar's Cipher and a numerical key of 1 will become "IFMMP".
